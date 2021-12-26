@@ -1,1 +1,1 @@
-pendeteksi wajah
+deteksi wajah
