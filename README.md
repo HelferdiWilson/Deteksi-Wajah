@@ -1,1 +1,2 @@
 deteksi wajah
+mendeteksi wajah
